@@ -7,3 +7,6 @@
 h3{
     color: White;
 }
+.sendInactive{
+    display: none;
+}
